@@ -97,4 +97,6 @@ fabric.properties
 /target/
 .idea
 *.class
-
+#gradle
+.gradle
+/.gradle/
